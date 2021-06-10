@@ -1,4 +1,4 @@
-### Namaste. I am Suman 👋
+### Hi three. I am Suman Gole👋
 
 - 🔭 I’m currently working on projects of my own.
 - 🌱 I’m currently learning ML 
