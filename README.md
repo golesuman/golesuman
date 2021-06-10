@@ -7,4 +7,4 @@
 - 💬 Ask me about photography and ML
 - 📫 How to reach me: gole35830@gmail.com
 - 😄 Pronouns:He/Him
-- ⚡ Fun fact: Ml==Stats+Maths
+- ⚡ Fun fact: ML==Stats+Maths
