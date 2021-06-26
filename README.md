@@ -1,4 +1,4 @@
-### Hi Geeks. I am Suman Gole👋
+### Hi Geeks. I am Suman Tamang Gole👋
 
 - 🔭 I’m currently working on projects of my own.
 - 🌱 I’m currently learning ML 
