@@ -9,9 +9,6 @@
 - 😄 Pronoun: gole:)
 - ⚡ Fun fact: Robots can have citizenship
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=golesuman&show_icons=true&theme=radical"/>
-
-<img align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golesuman&theme=radical&&layout=compact"/>
 
 
 
