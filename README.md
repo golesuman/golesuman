@@ -1,4 +1,4 @@
-### Hi Nerds. I am Suman Tamang Gole 👋
+### Hello World. I am Suman Tamang Gole 👋
 
 - 🔭 I’m currently working on projects of my own
 - 🌱 I’m currently learning Data Structures and Algorithms
