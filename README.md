@@ -1,6 +1,6 @@
 ### Hello World. I am Suman Tamang Gole 👋
 
-- 🔭 I’m currently working on projects of my own
+- 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning to make backend using Django
 - 🤔 I'm learning to make some APIs using Django for our Project
 - 🤔 I’m looking for help with Deep learning
