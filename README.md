@@ -1,4 +1,4 @@
-### Hello World. I am Suman Tamang Gole 👋
+### Hi. I am Suman Tamang Gole 👋
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning to make backend using Django
