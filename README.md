@@ -1,7 +1,7 @@
 ### Hi. I am Suman Tamang Gole 👋
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning DSA and Machine Learning Stuff
+- 🌱 I’m currently learning Django
 - 🤔 I'm learning to make some APIs
 - 🤖 I’m looking for help with Deep learning
 - 💬 Ask me about .....
