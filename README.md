@@ -10,11 +10,12 @@
 - ⚡ Fun fact: Robots can have citizenship
 - 📖 Read My Blogs at https://golesuman.blogspot.com/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golesuman&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golesuman&layout=compact)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golesuman&theme=radical&show_icons=true&locale=en&layout=compact" alt="golesuman" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golesuman&theme=radical&layout=compact" alt="golesuman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golesuman&layout=compact" alt="golesuman" /></p>
+
 
 
 
