@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning Django
-- 🤔 I'm learning to make some APIs
-- 🤖 I’m looking for help with Deep learning
+- 🤔 I'm learning to make some APIs with DRF
 - 💬 Ask me about .....
 - 📫 How to reach me: golesuman45@gmail.com
 - 😄 Pronoun: gole:)
