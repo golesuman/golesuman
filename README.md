@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning Django
-- 🤔 I'm learning to make Data Engineering, Cloud Computing and Backend technologies.
+- 🤔 I'm learning Data Engineering, Cloud Computing and Backend technologies.
 - 💬 Ask me about .....
 - 📫 How to reach me: golesuman45@gmail.com
 - 😄 Pronoun: gole:)
