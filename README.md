@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning Django
 - 🤔 I'm learning Data Engineering, Cloud Computing and Backend technologies.
-- 💬 Ask me about .....
+- 💬 Ask me about Backends, Automation, Data Analysis etc. 
 - 📫 How to reach me: golesuman45@gmail.com
 - 😄 Pronoun: gole:)
 - ⚡ Fun fact: Robots can have citizenship
