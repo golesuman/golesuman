@@ -1,6 +1,5 @@
 ### Hi. I am Suman Tamang Gole 👋
-
-- 🔭 I’m currently working on Backend Services and APIs.
+- 👜 Currently Working as an Associate Backend Developer.
 - 🤔 I'm learning Data Engineering, Cloud Computing and Backend technologies.
 - 💬 Ask me about Backends, Automation, Data Analysis etc. 
 - 📫 How to reach me: golesuman45@gmail.com
