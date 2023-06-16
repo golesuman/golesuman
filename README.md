@@ -1,11 +1,10 @@
 ### Hi. I am Suman Tamang Gole 👋
 - 👜 Currently Working as an Associate Backend Developer.
 - 🤔 I'm learning Data Engineering, Cloud Computing and Backend technologies.
-- 💬 Ask me about Backends, Automation, Data Analysis etc. 
+- 💬 Ask me about Backend, Automation etc.
 - 📫 How to reach me: golesuman45@gmail.com
 - 😄 Pronoun: gole:)
 - ⚡ Fun fact: Robots can have citizenship
-- 📖 Read My Blogs at https://golesuman.blogspot.com/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=golesuman&theme=radical&layout=compact)
 
